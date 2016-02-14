@@ -43,7 +43,7 @@ task rather than catch-all methods.
 
 Good code should be easy to build upon without rewriting the core.
 
-## Enhance Progressivery
+## Enhance Progressively
 Avoid creating a lot of JavaScript dependent code.
 
 DOM generation is slow and expensive. Elements that are dependent on JavaScript
