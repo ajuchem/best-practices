@@ -18,9 +18,9 @@ Valid code is secure code.
 Validate your code: [JSLint](http://www.jslint.com)
 
 ## Comment as much as needed but not more
-### "Good code explains itself" is an arrogant myth.
-Avoid using the line comment ``//``. ``/* */`` is much safer to use because it doesn't
-cause errors when the line break is removed.
+##### "Good code explains itself" is an arrogant myth.
+Avoid using the line comment ``//``.
+``/* */`` is much safer to use because it doesn't cause errors when the line break is removed.
 
 ## Avoid mixing with other technologies
 JavaScript is good for calculation, conversion, access to outside sources (Ajax)
